@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  spinbeer
+
+  Created by Paolo Giubilato on 10/06/22.
+  
+*/
+"commonOR" = "or";
+"beerListTitle" = "SpinBeer 🍺";
+"beerDetailsValueFirstBrew" = "First Brew in: ";
+"beerDetailsValueBrewerTips" = "Follow these tips: ";
+"beerDetailsValuePairingInfo" = "Pair with: ";
+"valueNotValid" = "N/A";
+"beerValueABV" = "ABV: ";
+"beerValueIBU" = "IBU: ";
